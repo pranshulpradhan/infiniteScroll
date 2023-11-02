@@ -1,6 +1,6 @@
 .imgs {
-    height: 200px;
-    width: 200px;
+    height: inherit;
+    width: inherit;
     margin: 10px;
 }
 
